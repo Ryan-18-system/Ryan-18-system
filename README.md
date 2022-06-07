@@ -16,10 +16,10 @@
   
   ##
 <div
-  <a href="https://www.linkedin.com/in/ryan-n%C3%B3brega-8884031b3/" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
   
   [![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:ryanbrandao18@gmail.com)
-  [![Linkedin: Ryan Nóbrega](https://img.shields.io/badge/-stephanynusch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-n%C3%B3brega-8884031b3)](https://www.linkedin.com/in/ryan-n%C3%B3brega-8884031b3)
-  [![GitHub: Ryan-18-system](https://img.shields.io/github/followers/stebsnusch?label=follow&style=social)](https://github.com/stebsnusch)
+  [![Linkedin: Ryan Nóbrega](https://img.shields.io/badge/-Ryan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-n%C3%B3brega-8884031b3)](https://www.linkedin.com/in/ryan-n%C3%B3brega-8884031b3)
+  
 
 </div>
