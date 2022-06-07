@@ -11,8 +11,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-18-system&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
+   ### My Technologies
 <div style="display: flex"> 
-  
+
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Typscript](https://img.shields.io/badge/typescript-1270ff.svg?style=for-the-badge&logo=typescript&logoColor=A9A9A9)
   ![Angular](https://img.shields.io/badge/angular-%23CC342D.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -21,6 +22,7 @@
  
 <div>
 
+  <h3>Contacts</h3>
   
   [![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:ryanbrandao18@gmail.com)
   [![Linkedin: Ryan Nóbrega](https://img.shields.io/badge/-Ryan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-n%C3%B3brega-8884031b3)](https://www.linkedin.com/in/ryan-n%C3%B3brega-8884031b3)
