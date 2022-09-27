@@ -20,6 +20,7 @@
   ![Cypress](https://img.shields.io/badge/cypress-808080.svg?style=for-the-badge&logo=cypress&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![FireBase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
   
  
 <div>
