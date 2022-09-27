@@ -16,10 +16,10 @@
 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Typscript](https://img.shields.io/badge/typescript-1270ff.svg?style=for-the-badge&logo=typescript&logoColor=A9A9A9)
-  ![Angular](https://img.shields.io/badge/angular-%23CC342D.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![Cypress](https://img.shields.io/badge/cypress-808080.svg?style=for-the-badge&logo=cypress&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=red)
-  ![Spring](https://img.shields.io/badge/spring-%23ED8B00.svg?style=for-the-badge&logo=spring&logoColor=green)
+  ![Java]("https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white")
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   
  
 <div>
