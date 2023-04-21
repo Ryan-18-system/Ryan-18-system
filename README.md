@@ -18,9 +18,11 @@
   ![Typscript](https://img.shields.io/badge/typescript-1270ff.svg?style=for-the-badge&logo=typescript&logoColor=A9A9A9)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![Cypress](https://img.shields.io/badge/cypress-808080.svg?style=for-the-badge&logo=cypress&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  [![Playwright](https://img.shields.io/badge/Playwright-1C1C1C?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)  
+  [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![FireBase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
+  [![Quarkus](https://img.shields.io/badge/Quarkus-007396?style=for-the-badge&logo=quarkus&logoColor=white)](https://quarkus.io/)
   
  
 <div>
