@@ -4,7 +4,7 @@
 
 ### Hi. My name is Ryan Nóbrega.
 
-- 💻 trainee
+- 💻 Software Developer I 
 <div align="center">
   <a href="https://github.com/Ryan-18-system">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryan-18-system&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
