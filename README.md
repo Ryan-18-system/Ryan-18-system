@@ -19,10 +19,12 @@
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![Cypress](https://img.shields.io/badge/cypress-808080.svg?style=for-the-badge&logo=cypress&logoColor=white)
   [![Playwright](https://img.shields.io/badge/Playwright-1C1C1C?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)  
-  [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+  [![Java](https://img.shields.io/badge/Java-ED1C24?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![FireBase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
   [![Quarkus](https://img.shields.io/badge/Quarkus-007396?style=for-the-badge&logo=quarkus&logoColor=white)](https://quarkus.io/)
+  [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+
   
  
 <div>
